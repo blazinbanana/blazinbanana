@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blazinbanana
-- 👀 I’m interested in Python, C++, and HTML and their applications in healthcare
+- 👀 I’m interested in Python, Machine Learning, Deep Learning, HTML, Node.js, and their applications in healthcare
 - 🌱 I’m currently learning Python, Dart, Biomed eng, HTML
 - 💞️ I’m currently working on a project that utilizes Computer Vision for Biomechanics analysis
 - 📫 How to reach me @ calebmaina10032@gmail.com
