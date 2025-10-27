@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb Mwangi Maina
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, HTML, Node.js, and their applications in (but not limited to) healthcare
-- 🌱 I’m currently learning Pytorch, NLPs, Biomedical Engineering, UI/UX
+- 🌱 I’m currently learning Pytorch (WQU AI lab), NLPs, Biomedical Engineering, UI/UX
 - 💞️ Also currently working on a project for a competition on Kaggle for predicting a protein's biological function from its amino acid sequence
 - 📫 How to reach me @ calebmaina10032@gmail.com
 - 😄 Pronouns: He/him
