@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in Software Development, Python, Machine Learning, Deep Learning, HTML, Node.js, AGI and their applications in all realms of human endeavour
-- 🌱 I’m currently learning Pytorch, CNNs and DNNs
+- 🌱 I’m currently building and exploring DNNs using Pytorch
 
 - ✨ I'm a bit of a thinker
 
