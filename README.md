@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Caleb Mwangi Maina
+
 - 👀 I’m interested in Software Development, Python, Machine Learning, Deep Learning, HTML, Node.js, AGI and their applications in all realms of human endeavour
-- 🌱 I’m currently learning Pytorch (WQU AI lab), NLPs, Biomedical Engineering, UI/UX, ADKs
-- 💞️ Also currently working on a project that could **potentially** change the Education Landscape in Kenya...(no pressure 😄)
-- 📫 How to reach me @ calebmaina10032@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: A lot of Programmers usually assign random state=42. The inside joke with 42 is that in the book "The Hitchhiker's Guide to the Galaxy", a supercomputer named Deep Thought is built to find "The Answer to the Ultimate Question of Life, the Universe, and Everything." After 7.5 million years, the computer reveals the answer to be simply 42.
+- 🌱 I’m currently learning Pytorch, CNNs and DNNs
+
 - ✨ I'm a bit of a thinker
 
 <!---
