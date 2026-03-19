@@ -1,10 +1,55 @@
+<!-- Header -->
+<div align="center">
 
-- 👀 I’m interested in Software Development, Python, Machine Learning, Deep Learning, HTML, Node.js, AGI and their applications in all realms of human endeavour
-- 🌱 I’m currently building and exploring DNNs using Pytorch
+```
+╔═══════════════════════════════════╗
+║   building things that think.     ║
+╚═══════════════════════════════════╝
+```
 
-- ✨ I'm a bit of a thinker
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=deep+learning+%7C+full+stack+%7C+devops;context+is+everything.)](https://git.io/typing-svg)
 
-<!---
-blazinbanana/blazinbanana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+</div>
+
+---
+
+### what i do
+
+I build context aware systems that allow personalized interaction
+
+---
+
+### neural stack
+
+```python
+vision  = ["TensorFlow", "MediaPipe", "OpenCV"]
+bio     = ["BioPython"]                          
+web     = ["Next.js", "React", "Node.js", "Tailwind CSS"]
+infra   = ["Docker", "CI/CD", "Linux"]           
+```
+
+---
+
+### current focus
+
+```
+[ ]  scaling CV pipelines to production
+[ ]  tightening the feedback loop between model and UI
+[x]  learning DevOps (especially for scale)
+```
+
+---
+
+### philosophy
+
+> *"Understanding drives better decisions"*
+
+While implementing,  — I **reason about tradeoffs** and build for the edge cases that matter.
+
+---
+
+<div align="center">
+
+`always curious` &nbsp;·&nbsp; `learning` &nbsp;·&nbsp; `context is everything`
+
+</div>
