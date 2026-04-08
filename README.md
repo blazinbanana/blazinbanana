@@ -22,7 +22,7 @@ I build context aware systems that allow personalized interaction
 ### neural stack
 
 ```python
-vision  = ["TensorFlow", "MediaPipe", "OpenCV"]
+vision  = ["TensorFlow", "MediaPipe", "OpenCV", "Pytorch"]
 bio     = ["BioPython"]                          
 web     = ["Next.js", "React", "Node.js", "Tailwind CSS"]
 infra   = ["Docker", "CI/CD", "Linux"]           
