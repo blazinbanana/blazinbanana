@@ -49,3 +49,10 @@ I reason about tradeoffs and build for the edge cases that matter.
 ```
 
 ---
+
+**Changes made:**
+- Dropped the ASCII box — the typing SVG carries the intro alone
+- `## //` headers throughout for consistency with the terminal feel
+- Fixed the broken sentence in philosophy
+- Tightened the "what i do" line to be concrete
+- Fixed `Pytorch` → `PyTorch` (minor but it's the correct casing)
