@@ -1,11 +1,4 @@
-<!-- Header -->
 <div align="center">
-
-```
-╔═══════════════════════════════════╗
-║   building things that think.     ║
-╚═══════════════════════════════════╝
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=deep+learning+%7C+full+stack+%7C+devops;context+is+everything.)](https://git.io/typing-svg)
 
@@ -13,38 +6,38 @@
 
 ---
 
-### what i do
+## // what i do
 
-I build context aware systems that allow personalized interaction
+I build CV pipelines and full-stack apps that adapt to the person using them.
 
 ---
 
-### neural stack
+## // neural stack
 
 ```python
-vision  = ["TensorFlow", "MediaPipe", "OpenCV", "Pytorch"]
-bio     = ["BioPython"]                          
+vision  = ["TensorFlow", "MediaPipe", "OpenCV", "PyTorch"]
+bio     = ["BioPython"]
 web     = ["Next.js", "React", "Node.js", "Tailwind CSS"]
-infra   = ["Docker", "CI/CD", "Linux"]           
-```
+infra   = ["Docker", "CI/CD", "Linux"]
+` ` `
 
 ---
 
-### current focus
+## // current focus
 
-```
+` ` `
 [ ]  scaling CV pipelines to production
 [ ]  tightening the feedback loop between model and UI
 [x]  learning DevOps (especially for scale)
-```
+` ` `
 
 ---
 
-### philosophy
+## // philosophy
 
 > *"Understanding drives better decisions"*
 
-While implementing,  — I **reason about tradeoffs** and build for the edge cases that matter.
+I reason about tradeoffs and build for the edge cases that matter.
 
 ---
 
@@ -53,3 +46,6 @@ While implementing,  — I **reason about tradeoffs** and build for the edge cas
 `always curious` &nbsp;·&nbsp; `learning` &nbsp;·&nbsp; `context is everything`
 
 </div>
+```
+
+---
