@@ -13,7 +13,7 @@
 
 ---
 
-### what i do do
+### what i do
 
 I build context aware systems that allow personalized interaction
 
