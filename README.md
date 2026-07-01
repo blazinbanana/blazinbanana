@@ -34,9 +34,9 @@ deepnets = ["PyTorch", "TensorFlow", "OpenCV", "BioPython"]
 ### current focus
 
 ```
-[ ]  scaling CV pipelines to production
-[ ]  tightening the feedback loop between model and UI
-[x]  learning DevOps (especially for scale)
+[ ] scaling distributed AI and backend services to production
+[ ] optimizing custom database architectures for high throughput
+[x] automating CI/CD and server fleet infrastructure
 ```
 
 ---
