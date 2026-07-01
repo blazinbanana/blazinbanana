@@ -25,7 +25,7 @@ I build context aware systems that allow personalized interaction
 backend  = ["Python", "PostgreSQL", "Flask", "Linux/Ubuntu", "Bash"]
 frontend = ["Next.js", "React", "Tailwind CSS"]
 mobile   = ["React Native", "NativeWind", "Flutter"]
-infra    = ["Docker", "DigitalOcean", "CI/CD", "Coolify"]
+infra    = ["Docker", "Cloud VPS", "CI/CD", "Coolify"]
 deepnets = ["PyTorch", "TensorFlow", "OpenCV", "BioPython"]     
 ```
 
