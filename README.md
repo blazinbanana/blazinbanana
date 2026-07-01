@@ -19,13 +19,14 @@ I build context aware systems that allow personalized interaction
 
 ---
 
-### neural stack
+### forte
 
 ```python
-vision  = ["TensorFlow", "MediaPipe", "OpenCV", "Pytorch"]
-bio     = ["BioPython"]                          
-web     = ["Next.js", "React", "Node.js", "Tailwind CSS"]
-infra   = ["Docker", "CI/CD", "Linux"]           
+backend  = ["Python", "PostgreSQL", "Flask", "Linux/Ubuntu", "Bash"]
+frontend = ["Next.js", "React", "Tailwind CSS"]
+mobile   = ["React Native", "NativeWind", "Flutter"]
+infra    = ["Docker", "DigitalOcean", "CI/CD", "Coolify"]
+deepnets    = ["PyTorch", "TensorFlow", "OpenCV", "BioPython"]     
 ```
 
 ---
