@@ -23,9 +23,13 @@ I build context aware systems that allow personalized interaction
 
 ```python
 backend  = ["Python", "PostgreSQL", "Flask", "Linux/Ubuntu", "Bash"]
+
 frontend = ["Next.js", "React", "Tailwind CSS"]
+
 mobile   = ["React Native", "NativeWind", "Flutter"]
+
 infra    = ["Docker", "Cloud VPS", "CI/CD", "Coolify"]
+
 deepnets = ["PyTorch", "TensorFlow", "OpenCV", "BioPython"]     
 ```
 
@@ -35,7 +39,9 @@ deepnets = ["PyTorch", "TensorFlow", "OpenCV", "BioPython"]
 
 ```
 [ ] scaling distributed AI and backend services to production
+
 [ ] optimizing custom database architectures for high throughput
+
 [x] automating CI/CD and server fleet infrastructure
 ```
 
